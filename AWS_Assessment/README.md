@@ -1,7 +1,7 @@
 # AWS Assessment Submission
 
-**Name**: [Your Name]
-**Date**: [Date]
+**Name**: Ayush Singh 
+**Date**: 04-12-2025
 
 ## Overview
 This repository contains the solutions for the AWS Assessment tasks.
